@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev -p 3001",
-    "json-server": "json-server --watch fakeDB.json --port 5000",
+    "dev": "next dev",
+    "json-server": "json-server --watch db.json --port 5000",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"

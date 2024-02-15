@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Introduction to LensBD",
+      "description": "LensBD is an innovative Eye Glasses Management Dashboard designed for efficient inventory management and sales tracking. With a user-friendly interface and advanced features, it simplifies the process of managing eye glasses.",
+      "likeCount": 150
+    },
+    {
+      "id": 2,
+      "title": "Enhanced User Authentication",
+      "description": "LensBD incorporates Firebase authentication for a secure and seamless login and registration process. User data is protected, ensuring a safe and reliable user experience.",
+      "likeCount": 80
+    },
+    {
+      "id": 3,
+      "title": "Powerful Inventory Management",
+      "description": "Effortlessly add, delete, and edit items in the inventory. The bulk delete and duplicate functionalities streamline operations, making LensBD a powerful tool for managing eye glasses inventory.",
+      "likeCount": 222
+    },
+    {
+      "id": 4,
+      "title": "Insightful Sales History",
+      "description": "LensBD provides a detailed sales history with filtering options by day, month, and year. Quickly access transaction details and gain insights into top-selling items and revenue trends.",
+      "likeCount": 12
+    },
+    {
+      "id": 5,
+      "title": "Responsive UI and Modern Design",
+      "description": "The dashboard boasts a responsive and user-friendly design, ensuring a seamless experience across devices. Intuitive forms and controls make data input and manipulation a breeze.",
+      "likeCount": 18
+    },
+    {
+      "id": 6,
+      "title": "Advanced Redux Integration",
+      "description": "LensBD leverages Redux and Redux Toolkit Query for state management. This ensures optimized data fetching, caching, and improved overall performance.",
+      "likeCount": 10
+    },
+    {
+      "id": 7,
+      "title": "Express Node Backend",
+      "description": "The backend of LensBD is powered by Express.js and Node.js, providing a robust and secure server-side architecture for handling various operations.",
+      "likeCount": 25
+    },
+    {
+      "id": 8,
+      "title": "MongoDB for Scalable Storage",
+      "description": "LensBD utilizes MongoDB, a NoSQL database, for efficient and scalable data storage. Its flexible schema design ensures adaptability to evolving business needs.",
+      "likeCount": 16
+    },
+    {
+      "id": 9,
+      "title": "Integrated Firebase Services",
+      "description": "Firebase is seamlessly integrated into LensBD, providing authentication services. This ensures a secure and reliable environment for user registration and login.",
+      "likeCount": 14
+    },
+    {
+      "id": 10,
+      "title": "Optimized for Business Insights",
+      "description": "LensBD is designed with future enhancements in mind. Planned integrations include advanced analytics for gaining valuable business insights and trends.",
+      "likeCount": 20
+    }
+  ]
+}
