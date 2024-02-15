@@ -1,4 +1,5 @@
 import Link from "next/link";
+import styles from "./Post.module.css";
 
 const PostsPage = async() => {
 
@@ -11,8 +12,8 @@ const PostsPage = async() => {
     return (
         <div className="flex justify-center items-center min-h-screen">
             <div className="m-10">
-                <h2>Welcome to posts page</h2>
-                <p>Total Postsssss:{posts.length}</p>
+                <h2 className={styles.header_text}>Welcome to posts page</h2>
+                <p className={styles.sub_header}>Total Postsssss:{posts.length}</p>
                 <div className="w-full">
                     {
                     posts.map((post)=> (
