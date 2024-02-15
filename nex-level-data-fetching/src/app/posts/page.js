@@ -1,12 +1,9 @@
 
 const PostsPage = async() => {
 
-    // ISR Incremental Static Regeneration
-    // Automatically Rebuild after Data Date
+
     const res = await fetch("http://localhost:5000/posts",{
-        next:{
-            revalidate: 5,
-        }
+        cache: "no-store",
     });
     const posts = await res.json();
 
